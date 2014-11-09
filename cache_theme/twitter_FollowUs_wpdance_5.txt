@@ -1,0 +1,39 @@
+								<div id="twitter-box" style="overflow: hidden;">
+																		<ul id="twitter-list">
+																				<li class="status-item first">
+											<span class="tweet-content">Quis autem vel eum iure reprehenderit qui in ea voluptate
+Quis autem vel eum iure reprehenderit qui in ea voluptate</span>
+											<div class="name-time"></div>
+											<div class="date-time"><a href="http://twitter.com/wpdance/statuses/261035801696141312">1 year ago</a></div>
+											<div class="avatar"><img src="http://pbs.twimg.com/profile_images/2453908828/lion_normal.jpg" title="wpdance" alt="wpdance"></div>
+										</li>
+																				<li class="status-item ">
+											<span class="tweet-content"><a href="http://www.twitter.com/tvlgiao" >@tvlgiao</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at ultrices tortor. 
+<a href="http://t.co/52bBYKCd" >http://t.co/52bBYKCd</a></span>
+											<div class="name-time"></div>
+											<div class="date-time"><a href="http://twitter.com/wpdance/statuses/236050137250680832">1 year ago</a></div>
+											<div class="avatar"><img src="http://pbs.twimg.com/profile_images/2453908828/lion_normal.jpg" title="wpdance" alt="wpdance"></div>
+										</li>
+																				<li class="status-item ">
+											<span class="tweet-content"><a href="http://www.twitter.com/tvlgiao" >@tvlgiao</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at ultrices tortor. Quisque dapibus vestibulum erat, nec sollicitudi</span>
+											<div class="name-time"></div>
+											<div class="date-time"><a href="http://twitter.com/wpdance/statuses/236049899010019328">1 year ago</a></div>
+											<div class="avatar"><img src="http://pbs.twimg.com/profile_images/2453908828/lion_normal.jpg" title="wpdance" alt="wpdance"></div>
+										</li>
+																				<li class="status-item ">
+											<span class="tweet-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at ultrices tortor. Quisque dapibus vestibulum erat, nec sollicitudin.</span>
+											<div class="name-time"></div>
+											<div class="date-time"><a href="http://twitter.com/wpdance/statuses/236049687839375360">1 year ago</a></div>
+											<div class="avatar"><img src="http://pbs.twimg.com/profile_images/2453908828/lion_normal.jpg" title="wpdance" alt="wpdance"></div>
+										</li>
+																				<li class="status-item last">
+											<span class="tweet-content"><a href="http://www.twitter.com/tvlgiao" >@tvlgiao</a> Vivamus nec mauris magna, vehicula semper orci.</span>
+											<div class="name-time"></div>
+											<div class="date-time"><a href="http://twitter.com/wpdance/statuses/230489001306505217">2 years ago</a></div>
+											<div class="avatar"><img src="http://pbs.twimg.com/profile_images/2453908828/lion_normal.jpg" title="wpdance" alt="wpdance"></div>
+										</li>
+																			</ul>
+								<a href="http://twitter.com/wpdance"><span class="twitter-follow"></span></a>
+													
+								</div><!-- #ticker-wrapper -->
+					
